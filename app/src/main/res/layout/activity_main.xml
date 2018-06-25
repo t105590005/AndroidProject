@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:padding="9dip">
+
+    <Chronometer
+        android:id="@+id/MyChronometer"
+        android:layout_width="145dp"
+        android:layout_height="196dp"
+        android:paddingBottom="3dip"
+        android:textSize="24.5sp"
+        android:textColor="#234567">
+    </Chronometer>
+
+    <TableLayout
+        android:id="@+id/MyTableLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TableLayout>
+</LinearLayout>

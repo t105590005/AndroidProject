@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">記憶對對碰</string>
+    <string name="reset">再來一場</string>
+    <string name="exit">結束遊戲</string>
+</resources>
