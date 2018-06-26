@@ -219,7 +219,7 @@ public class MainActivity extends AppCompatActivity {
             else {
                 seconedCard.button.setBackgroundResource(R.drawable.empty);
                 firstCard.button.setBackgroundResource(R.drawable.empty);
-                Toast.makeText(getApplicationContext(), "配對錯誤了喔", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "配對錯誤了喔QQ", Toast.LENGTH_SHORT).show();
             }
             firstCard = null;
             seconedCard = null;
